@@ -8,7 +8,7 @@ const path = require("path");
 
 app.use(cors({
   //origin: 'https://eshop-tutorial-cefl.vercel.app',
-  origin: 'http://localhost:3000',
+  origin: 'https://myeshopingcart.vercel.app',
   credentials: true
 }));
 
